@@ -1,0 +1,14 @@
+package clinica;
+import static org.junit.Assert.*;
+
+import org.junit.Test;
+
+
+public class cliente {
+
+	@Test
+	public void test() {
+		fail("Not yet implemented");
+	}
+
+}
