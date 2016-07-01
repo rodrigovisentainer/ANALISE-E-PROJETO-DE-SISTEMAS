@@ -1,1 +1,0 @@
-versão 3.0 do veteriário
